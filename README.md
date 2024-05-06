@@ -22,7 +22,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Shrikrishna V
@@ -76,20 +75,11 @@ print("RMSE= ",rmse)
 ## dataset
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/3601ca3e-1300-49a7-8107-37fd8685caa8)
 
-
-
-
-
 ## head and tail values
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/22676f1c-6f6c-431a-887a-c4ceb46e508a)
 
-
 ## X and Y values
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/18ee5a39-6710-4ab3-8a4b-3873be89221d)
-
-
-
-
 
 ## Predication values of X and Y
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/0a17a630-8872-40bf-b77c-04b5ebdd2b13)
@@ -100,11 +90,8 @@ print("RMSE= ",rmse)
 ## Training Set
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/e3fe1065-e497-440d-8fc2-d86e8d98181c)
 
-
-
 ## Test Set Graph
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/5d9f0ced-bd0f-4c10-88d6-4fbeb3938db7)
-
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
