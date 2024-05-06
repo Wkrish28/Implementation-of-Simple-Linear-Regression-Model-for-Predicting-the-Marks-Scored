@@ -79,20 +79,23 @@ print("RMSE= ",rmse)
 ```
 ## Output:
 ## dataset
-![dataset](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/14a89059-3d77-4d08-a327-666017ba648b)
+![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/3601ca3e-1300-49a7-8107-37fd8685caa8)
 
-## head values
-![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/4eea6a9b-8a1a-4f07-b592-578af9337f5b)
 
-## tail values
-![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/e9ca07f3-a57c-4c8e-8870-ddb2e868823b)
+## head and tail values
+![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/22676f1c-6f6c-431a-887a-c4ceb46e508a)
+
+
 ## X and Y values
-![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/c5aceffc-a472-4054-acb3-8e6e0dd02116)
+![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/18ee5a39-6710-4ab3-8a4b-3873be89221d)
+
+
 
 ## Predication values of X and Y
-![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/2c7a26b6-51b8-4a9a-8f94-96e1ed2aafcd)
+![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/0a17a630-8872-40bf-b77c-04b5ebdd2b13)
+
 ## MSE,MAE and RMSE
-![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/7ed57fce-a2a7-4784-8f04-65190ec687d6)
+![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/84ff9855-0058-4cb6-935a-f9909217f785)
 
 ## Training Set
 ![image](https://github.com/Wkrish28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144295230/e3fe1065-e497-440d-8fc2-d86e8d98181c)
